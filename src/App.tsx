@@ -12,10 +12,6 @@ import { Event } from './pages/Event'
 //   }
 // `
 
-// interface LessonProps {
-//   id: string;
-//   title: string;
-// }
 
 function App() {
 
